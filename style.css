@@ -16,7 +16,7 @@ span{
     color: #fa0;
 }
 
-.square{
+.squares{
     width: 80px;
     height: 80px;
     background: #f25;
@@ -25,7 +25,7 @@ span{
     font-size: 50px;
 
 }
-.square:hover{
+.squares:hover{
     background: black;
     cursor: pointer;
 
